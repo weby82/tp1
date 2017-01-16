@@ -3,7 +3,9 @@ h1{
 }
 h2{
 	color: blue;
+	background-color: orange;
 }
 p{
 	line-height: 1.3em;
+	color: darkblue;
 }
